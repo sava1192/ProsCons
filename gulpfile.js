@@ -2,7 +2,6 @@
 
 var gulp = require('gulp');
 var sass = require('gulp-sass');
-// var concatCss = require('gulp-concat-css');
 
 var sass_path = './scss/*.scss';
 var css_path = './css'
