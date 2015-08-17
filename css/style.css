@@ -5,3 +5,7 @@
 .pros {
   width: 50%;
   float: right; }
+
+#result {
+  text-align: center;
+  font-size: 35px; }
